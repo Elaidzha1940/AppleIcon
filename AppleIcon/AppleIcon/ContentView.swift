@@ -7,19 +7,28 @@
 //
 //  Status
 //
-//  */ 
+//  */
 
 import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundColor(.accentColor)
-            Text("Hello, world!")
+        
+        VStack(spacing: 0) {
+            
+            Color.green
+            Color.green
+            Color.green
+            Color.yellow
+            Color.orange
+            Color.red
+            Color.purple
+            Color.blue
         }
-        .padding()
+        .frame(width: 200, height: 200)
+        .mask {
+            
+        }
     }
 }
 
