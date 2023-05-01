@@ -1,9 +1,13 @@
+//  /*
 //
-//  ContentView.swift
-//  AppleIcon
+//  Project: AppleIcon
+//  File: ContentView.swift
+//  Created by: Elaidzha Shchukin
+//  Date: 01.05.2023
 //
-//  Created by Elaidzha Shchukin on 01.05.2023.
+//  Status
 //
+//  */ 
 
 import SwiftUI
 
